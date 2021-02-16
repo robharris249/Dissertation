@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CSC3223Coursework1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  driver.cpp
+C:\Users\RobHa\Desktop\Uniwork\Year 3\CSC3095 - Dissertation\Code\Dissertation\CSC3223\Dissertation\driver.cpp(36,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\RobHa\Desktop\Uniwork\Year 3\CSC3095 - Dissertation\Code\Dissertation\CSC3223\Dissertation\driver.cpp(128,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Dissertation.vcxproj -> C:\Users\RobHa\Desktop\Uniwork\Year 3\CSC3095 - Dissertation\Code\Dissertation\Debug\Dissertation.exe

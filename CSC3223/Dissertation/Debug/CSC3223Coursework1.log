@@ -1,0 +1,25 @@
+﻿  Coursework1.cpp
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(25,11): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(26,11): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(27,11): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(158,55): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(190,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(190,66): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(191,42): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(192,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(192,66): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(203,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(203,66): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(204,42): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(205,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(205,66): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(239,16): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(344,11): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(345,11): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(346,11): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(352,39): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(357,78): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(357,71): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(357,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert Harris\source\repos\CSC3223 2019\CSC3223\CSC3223Coursework1\Coursework1.cpp(360,24): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+  CSC3223Coursework1.vcxproj -> C:\Users\Robert Harris\source\repos\CSC3223 2019\Debug\CSC3223Coursework1.exe
